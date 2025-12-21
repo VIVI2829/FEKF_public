@@ -1,0 +1,4 @@
+1. Kalman Filter NCLT: my model 
+2. KF_data: gen input theo format KalmanNet
+3. KF_outx.csv: Lối ra KF của code KalmanNet theo trục x
+4. KF_outy.csv: Lối ra KF của code KalmanNet theo trục y
